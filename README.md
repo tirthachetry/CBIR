@@ -1,6 +1,6 @@
 # CBIR
 The 4 Steps of Any CBIR System
-No matter what Content-Based Image Retrieval System you are building, they all can be boiled down into 4 distinct steps:
+No matter what  **Content-Based Image Retrieval System** you are building, they all can be boiled down into 4 distinct steps:
 
 1).Defining your image descriptor: At this phase you need to decide what aspect of the image you want to describe. Are you interested in the color of the image? The shape of an object in the image? Or do you want to characterize texture?
 
@@ -12,8 +12,8 @@ No matter what Content-Based Image Retrieval System you are building, they all c
 
 
 # Following Steps For Using
-Open up your terminal, navigate to the directory where your code lives, and issue the following command:
-$ python search.py --index index.csv --query queries/input.png --result-path dataset
+Open up your terminal, navigate to the directory where your code lives, and issue the following command:<br/>
+> python search.py --index index.csv --query queries/input.png --result-path dataset
 
 # Note
 Input the image name given in the queries folder as input.jpg
