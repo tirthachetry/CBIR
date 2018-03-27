@@ -10,6 +10,8 @@ No matter what  **Content-Based Image Retrieval System** you are building, they 
 
 4)Searching: The final step is to perform an actual search. A user will submit a query image to your system (from an upload form or via a mobile app, for instance) and your job will be to (1) extract features from this query image and then (2) apply your similarity function to compare the query features to the features already indexed. From there, you simply return the most relevant results according to your similarity function.
 
+#### Download Dataset folder from the below link: <br/>
+> https://drive.google.com/open?id=1Wt0-p42pc1FvBysFX-9Ojg01aqg_KteG
 
 # Following Steps For Using
 Open up your terminal, navigate to the directory where your code lives, and issue the following command:<br/>
